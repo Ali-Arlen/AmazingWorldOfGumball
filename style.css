@@ -1,0 +1,72 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(255, 255, 255)
+}
+.wrapper{
+   margin: 0 auto;  /*ставит текст по середине*/
+   width: 1090px;   /*ширина контейнера*/
+   background-color: rgb(255, 0, 0);  /*задний фон*/
+   border-radius: 20px;
+}
+.wrapper h1{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    color: rgb(255, 255, 255);
+}
+.wrapper h3{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    color: rgb(255, 255, 255);
+}
+.wrapper span{
+    text-align: center;
+    font-weight: bold;
+    color: azure;
+}
+.block1{
+    display: inline-block;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    color: red;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.block2{
+    display: inline-block;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    color: red;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.block3{
+    display: inline-block;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    color: red;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.block1 img{
+    width: 200px;
+}
+.block2 img{
+    width: 200px;
+}
+.block3 img{
+    width: 200px;
+}
+.block1 span{
+    color: red;
+}
+.block2 span{
+    color: red;
+}
+.block3 span{
+    color: red;
+}
